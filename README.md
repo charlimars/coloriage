@@ -48,7 +48,7 @@ The script will appear in: **File > Scripts > Coloriage**
 
 ---
 
-## ⌨️ Setting up a keyboard shortcut (recommended)
+## Setting up a keyboard shortcut (recommended)
 
 For maximum speed, create a keyboard shortcut via Actions:
 
