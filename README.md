@@ -2,9 +2,7 @@
 
 **Fast coloring workflow for Photoshop**
 
-Automates the flatting process for line art coloring. Perfect for character rigs, comics, and illustration work.
-
-![Coloriage Demo](demo.gif)
+Automates the flatting process for line art coloring. 
 
 ---
 
