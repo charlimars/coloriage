@@ -1,8 +1,12 @@
 # Coloriage
 
+![Coloriage Logo](thumbnail.png)
+
 **Fast coloring workflow for Photoshop**
 
 Automates the flatting process for line art coloring. 
+
+![Coloriage Demo](coloriage.gif)
 
 ---
 
