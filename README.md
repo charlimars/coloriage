@@ -1,4 +1,4 @@
-# 🎨 Coloriage
+# Coloriage
 
 **Fast coloring workflow for Photoshop**
 
@@ -8,7 +8,7 @@ Automates the flatting process for line art coloring. Perfect for character rigs
 
 ---
 
-## 🚀 What it does
+## What it does
 
 Coloring in Photoshop can be tedious, especially when you want clean edges without jagged white borders. **Coloriage** automates the entire flatting workflow in a single click:
 
@@ -22,7 +22,7 @@ Coloring in Photoshop can be tedious, especially when you want clean edges witho
 
 ---
 
-## 📥 Installation
+## Installation
 
 ### Step 1: Download
 
@@ -67,7 +67,7 @@ Detailed installation guides (French + English) are included in the download.
 
 ---
 
-## 🎯 Usage
+## Usage
 
 1. **Select** an area on your line art layer (using Lasso, Magic Wand, or any selection tool)
 2. **Run** the script (File > Scripts > Coloriage or your keyboard shortcut)
@@ -77,7 +77,7 @@ The selection remains active, allowing you to run the script again for additiona
 
 ---
 
-## 💻 Compatibility
+## Compatibility
 
 - **Photoshop CC 2020** or higher
 - **Tested on:** Photoshop 2020 and 2024
@@ -85,7 +85,7 @@ The selection remains active, allowing you to run the script again for additiona
 
 ---
 
-## 🎨 Use Cases
+## Use Cases
 
 - **Character rigging** for After Effects puppets
 - **Line art flatting** for illustration
@@ -95,7 +95,7 @@ The selection remains active, allowing you to run the script again for additiona
 
 ---
 
-## 📦 What's included
+## What's included
 
 - `Coloriage.jsx` - The Photoshop script
 - Installation guides (French + English PDF)
@@ -103,7 +103,7 @@ The selection remains active, allowing you to run the script again for additiona
 
 ---
 
-## 🆓 License
+## License
 
 This script is **100% free** with no limitations.
 
@@ -115,13 +115,13 @@ If you find it useful, feel free to:
 
 ---
 
-## 🐛 Issues & Feedback
+## Issues & Feedback
 
 Found a bug or have a suggestion? Open an [issue](https://github.com/charlimars/coloriage/issues) or reach out!
 
 ---
 
-## 👤 Author
+## Author
 
 **Charlie Mars** - Director, illustrator, animator
 
