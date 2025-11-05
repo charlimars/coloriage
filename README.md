@@ -2,7 +2,7 @@
 
 **Fast coloring workflow for Photoshop**
 
-Automates the flatting process for line art coloring. Particularly useful if you have a lot of layers, for example; when preparing a character rig for animation. Otherwise, there are plenty of other methods you can use.
+Automates the flatting process for line art coloring. 
 
 ![Coloriage Demo](coloriage.gif)
 
@@ -10,7 +10,9 @@ Automates the flatting process for line art coloring. Particularly useful if you
 
 ## What it does
 
-Coloring in Photoshop can be tedious, especially when you want clean edges without jagged white borders. **Coloriage** automates the entire flatting workflow in a single click:
+Coloring in Photoshop can be tedious, especially when you want clean edges without jagged white borders.
+This script is particularly useful if you have a lot of layers, for example; when preparing a character rig for animation. Otherwise, there are plenty of other methods you can use.
+**Coloriage** automates the entire flatting workflow in a single click:
 
 1. **Expands** your selection by 2 pixels
 2. **Creates** a new layer
